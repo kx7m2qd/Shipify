@@ -304,6 +304,6 @@ MIT — see [LICENSE](./LICENSE) for full terms.
 
 <br/>
 
-Built with Groq · LLaMA 3.3 · Octokit · Node.js · React · Docker
+Built with  LLaMA 3.3 · Octokit · Node.js · React · Docker
 
 </div>
